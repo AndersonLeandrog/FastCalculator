@@ -7,8 +7,8 @@ using namespace std;
 
 int main() {
 	
-	init:
-	system("cls");
+   init:
+   system("cls");
 	
     /*criação de variáveis valor1, valor2, tipo e total
     valor1, refere-se ao primeiro valor.
@@ -18,7 +18,7 @@ int main() {
     int valor1, valor2, tipo, total;
     char ret;
 	
-	cout << "FASTCALCULATOR V 1.0.0\n" << endl;
+    cout << "FASTCALCULATOR V 1.0.0\n" << endl;
     cout << "SEJA BEM VINDO A CALCULADORA EM CPP,\n" << endl;
     
     //Questiona o usuário que tipo de conta ele deseja realizar e o um valor de 1 a 4 é retornado para a variável 'tipo'.
