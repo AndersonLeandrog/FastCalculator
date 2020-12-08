@@ -60,9 +60,9 @@ int main() {
     
     if(ret == 's' or ret == 'S') {
     	goto init;
-	} else {
-		system("cls");
-		cout << "OBRIGADO POR USAR O NOSSO PROGRAMA! :)" << endl;
-		getch();
-	}
+    } else {
+        system("cls");
+	cout << "OBRIGADO POR USAR O NOSSO PROGRAMA! :)" << endl;
+	getch();
+    }
 }
