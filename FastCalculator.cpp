@@ -10,11 +10,11 @@ int main() {
 	init:
 	system("cls");
 	
-	/*criação de variáveis valor1, valor2, tipo e total
-	valor1, refere-se ao primeiro valor.
-	valor2, refere-se ao segundo valor.
-	tipo, refere-se ao tipo de conta.
-	total, ao valor total da conta.*/
+    /*criação de variáveis valor1, valor2, tipo e total
+    valor1, refere-se ao primeiro valor.
+    valor2, refere-se ao segundo valor.
+    tipo, refere-se ao tipo de conta.
+    total, ao valor total da conta.*/
     int valor1, valor2, tipo, total;
     char ret;
 	
